@@ -14,7 +14,7 @@
 </div>
 
 
-Thank you for following me! [@cyb_detective](https://linktr.ee/cyb_detective)
+Thank you for following me! [@wh04M1i](https://linktr.ee/g0v3rdh4n)
 
 <h1>Table of contents</h1>
 
@@ -273,4 +273,4 @@ Google Hacking tool from Pentest Tools https://pentest-tools.com/information-gat
 <hr>
 
 
-Thank you for following me! [@cyb_detective](https://linktr.ee/cyb_detective)
+Thank you for following me! [@wh04m1i](https://github.com/g0v3rdh4n)
